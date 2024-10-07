@@ -1,0 +1,4 @@
+AAACustomerPortlet/constants/AAACustomerPortletKeys.java
+ AAACustomerPortlet.constants.AAACustomerPortletKeys
+AAACustomerPortlet/portlet/AAACustomerPortlet.java
+ AAACustomerPortlet.portlet.AAACustomerPortlet
